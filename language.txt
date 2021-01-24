@@ -1,0 +1,12 @@
+function fun(a,b){
+    d = 22-5;
+    c = 1;
+    f = a + b + d - c;
+    return f;
+}
+function funct(a,b){
+    d = a + b + 12;
+    return d;
+}
+
+b = fun(3,2) + funct(3,2);
